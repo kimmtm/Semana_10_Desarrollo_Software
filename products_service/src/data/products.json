@@ -1,6 +1,20 @@
 [
     {
-    "id": "1",
-    "name": "Producto de ejemplo",
-    "price": 10000 }
+    "id": 1,
+    "name": "Laptop Lenovo",
+    "price": 2500000,
+    "stock": 15
+    },
+    {
+    "id": 2,
+    "name": "Mouse Inalámbrico",
+    "price": 45000,
+    "stock": 50
+    },
+    {
+    "id": 3,
+    "name": "Teclado Mecánico",
+    "price": 180000,
+    "stock": 20
+    }
 ]
