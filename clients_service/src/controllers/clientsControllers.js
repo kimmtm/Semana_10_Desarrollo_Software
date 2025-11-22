@@ -3,6 +3,7 @@ const path = require('path');
 const { v4: uuidv4 } = require('uuid');
 const filePath = path.join(__dirname, '../data/clients.json');
 
+// Funciones auxiliares para leer y escribir datos
 function readData() {
     if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, '[]', 'utf8');
     return JSON.parse(fs.readFileSync(filePath, 'utf8'));
