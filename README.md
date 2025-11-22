@@ -11,7 +11,8 @@ Maria del Mar Alvarez ID: 407412.
 El documento con el entregable se encuentra en la wiki del repositorio.
 Link del video: https://drive.google.com/file/d/1476UQKKafdESurFxaNFMTLHEOQsvqjmy/view?usp=drive_link
 
-
 La entrega 2 se encuentra en la rama entrega_2
-git
+
 La entrega 3 se encuentra en la rama entrega_3
+LINK VIDEO FINAL: https://drive.google.com/file/d/1iJpjyz-rep7OHTKQ3DsJlBE6ObNaaKQD/view?usp=drivesdk
+
