@@ -1,0 +1,28 @@
+services:
+  products_service:
+    build: ./products_service
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./products_service:/app
+    environment:
+      - NODE_ENV=production
+
+  clients_service:
+    build: ./clients_service
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./clients_service:/app
+    environment:
+      - NODE_ENV=production
+
+  sales_service:
+    build: ./sales_service
+    ports:
+      - "3003:3003"
+    volumes:
+      - ./sales_service:/app
+    environment:
+      - NODE_ENV=production
+

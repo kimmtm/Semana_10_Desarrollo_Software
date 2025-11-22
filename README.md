@@ -1,3 +1,8 @@
+Entrega 3 proyecto con microservicios. 
+Maria Alvarez ID: 407412
+Kimberly Caicedo ID: 407072
+
+Link video:
 # Semana_10_Desarrollo_Software
 Primera entrega del proyecto de desarrollo de software.
 Equipo formado por:
@@ -8,5 +13,5 @@ Link del video: https://drive.google.com/file/d/1476UQKKafdESurFxaNFMTLHEOQsvqjm
 
 
 La entrega 2 se encuentra en la rama entrega_2
-
+git
 La entrega 3 se encuentra en la rama entrega_3
